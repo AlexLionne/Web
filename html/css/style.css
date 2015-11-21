@@ -1,0 +1,147 @@
+
+body{
+    background-color: #fafafa;
+    margin-left:240px
+}
+header {
+    float:center;
+    background-image:url(../img/test_dashboard.png);
+    color:white;
+    text-align:center;
+    height:304px;	
+}
+
+/*Menu Lateral*/
+.user-details{
+    height: 200px;
+    background-color: #00bcd4
+}
+/*Alignements*/
+#btom{
+    text-align: bottom;
+    float: bottom
+}
+#logo_img{
+    margin-top: 20px
+}
+/*Top left button in drawer*/
+.btn-flat dropdown-button waves-effect waves-light white-text profile-btn{
+    margin-top:10px
+}
+/*Items of the drawer*/
+#item_1{
+    margin-right:20px
+}
+#item_2{
+    margin-right:20px
+}
+#item_3{
+    margin-right:20px
+}
+#item_4{
+    margin-right:20px
+}
+#item_5{
+    margin-right:20px
+}
+/*Header text and logo*/
+
+/*text attributes*/
+.ex{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+.company{
+    text-align: center;
+    padding:20px;
+    font-size:60px;
+    font-family: 'Slabo 27px', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#logo_header{
+    width: 7%
+}
+
+/*ActionBar*/
+
+nav{
+    background-color:#0097a7"
+}
+
+/*icons in actionbar*/
+#github{
+    margin-left: 30px;
+    margin-right: 30px
+}
+#facebook{
+    margin-left: 30px;
+    margin-right: 30px
+}
+#gplus{
+    margin-left: 30px;
+    margin-right: 30px
+}
+/*Contents of the page*/
+#container{
+    background-color: #fafafa
+}
+/*Cards*/
+/*normal ones*/
+.card{
+    margin-top: 20px
+}
+/*Specific content of index's cards*/
+#card_content_index{
+    height:100px
+}
+
+/*Footer*/
+.page-footer{
+    background-color: #00bcd4
+}
+.footer-copyright{
+    background-color:#0097a7
+}
+
+/*For intro page */
+
+#container {
+  position: relative;
+}
+
+#bgvid {
+  position: left;
+  width:100%;
+  }
+  #video {
+  position: left;
+  height:100%;
+  }
+
+#title{
+color:#ffffff;
+	font-family: 'Slabo 27px', serif;	
+  z-index: 100;
+  position: absolute;
+bottom:50%;
+right:0%;
+color:#ffffff;
+}
+
+#button {
+  z-index: 100;
+  position: absolute;
+bottom:20%;
+right:47%;
+}
+
+#intro_title{
+}
+/*taille de la police d'intro*/
+#desc{
+font-size: 150%;}
+#desc_2{
+font-size: 150%;}
